@@ -1,0 +1,21 @@
+Variation_Query,Matches_With_Query_ID
+Unabel to conect to the internet,1
+Can’t connect to internet,1
+Intenet not working,1
+Payment failed while chekout,2
+Payment did not go through during chckout,2
+Payment issue at check out,2
+Application crashes when opening setings,3
+App crash when going to settings,3
+Settings cause the app to chrash,3
+Forgot passwrd and cant reset,4
+"Forgotten password, unable to reset",4
+I can’t reset my password,4
+Unable to uplod file to server,5
+Can't upload files on to the server,5
+File uploading to server not working,5
+"No internet connection, please help",1
+Checkout page says payment failed,2
+Settings page crashes app immediately,3
+Password reset link not working,4
+Server upload fails with an error message,5
